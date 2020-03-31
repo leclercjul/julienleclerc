@@ -1,0 +1,145 @@
+#container
+{
+font-family: Arial, Impact, sans-serif;
+min-height: 100%;
+padding-bottom: 100px;
+
+}
+
+#header
+{
+  margin: 10px 10px;
+  padding: 5px;
+  position:absolute;
+	right:30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+#Mail
+{
+padding-right: 10px;
+hoover {text-decoration : underline};
+}
+
+#Compte
+{
+hoover {text-decoration : underline};
+}
+
+#Application
+{
+padding-right: 10px;
+hoover {text-decoration : underline};
+}
+
+#Images
+{
+padding-right: 10px;
+hoover {text-decoration : underline};
+}
+
+
+#section
+{
+text-align: center;
+display: block;
+margin: 0 auto;
+clear: both;
+padding-top: 150px;
+padding-bottom: 20px;
+}
+
+.Barrederecherche
+{
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+	clear: left;
+
+}
+
+
+#footer
+{
+
+height: 100px;
+position: absolute;
+bottom: 0;
+width: 100%;
+font-family: Arial, Impact, sans-serif;
+margin :0px ;
+padding :0px ;
+background-color: #F2F2F2;
+}
+
+
+#footer1
+{
+height: 50px;
+font-family: Arial, Impact, sans-serif;
+font-size: 15px;
+color: rgba(0,0,0,.54);
+border-color: #5f6368
+margin :0px ;
+padding :0px ;
+width: 100%;
+background-color: #F2F2F2;
+}
+
+a:hover {text-decoration: underline;}
+
+#boxfooter23
+{
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+width: 100%;
+height: 40px;
+}
+
+#footer2
+{
+display: flex;
+justify-content: space-between;
+height: 50px;
+width: 40%;
+text-decoration: none;
+font-family: Arial, Impact, sans-serif;
+font-size: 14px;
+color: #5f6368;
+border-color: #5f6368
+margin-bottom: 10px;
+margin :0px ;
+padding :0px ;
+background-color: #F2F2F2;
+}
+
+#footer3
+{
+display: flex;
+justify-content: space-between;
+height: 50px;
+text-decoration: none;
+font-family: Arial, Impact, sans-serif;
+font-size: 14px;
+color: #5f6368;
+border-color: #5f6368
+margin-bottom: 10px;
+margin :0px;
+padding :0 ;
+width: 40%;
+background-color: #F2F2F2;
+}
+
+#Google
+{
+cursor: pointer;
+
+}
+
+#France
+{
+margin-left: 36px;
+}
